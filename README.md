@@ -1,4 +1,4 @@
-# :robot: Schematic Basics
+# :robot: Schematic Design
 
 ## 🤓 Overview and learning outcomes 
 
