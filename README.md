@@ -10,7 +10,7 @@ A circuit schematic shows a component-level view of your electronic system. Comp
 
 If you have not alreay done so read the section from All About Circuits which describes [Electronics Schematics](https://www.allaboutcircuits.com/technical-articles/understanding-schematics/) and watch the video here to help you visualize what these are:
 
-https://www.youtube.com/watch?v=9cps7Q_IrX0&t=360s
+[![Collin's Lab: Schematics](http://img.youtube.com/vi/9cps7Q_IrX0/0.jpg)](https://www.youtube.com/watch?v=9cps7Q_IrX0 "Collin's Lab: Schematics")
 
 ## The Circuit Simulator App
 
@@ -18,14 +18,34 @@ In order to draw your own schematics online, we will employ the [Circuit Simulat
 
 ## 💻 Terms to know
 
+- Circuit
+- Resistor
+- Diode
+- Power
+- Ground
+- Transistor
+- MOSFET
+
 ## 📝 Next steps
 In the lab are three circuits that have been built on three demo breadboards.  Photos are found below.
 
 ___Circuit 1___
 
-![Circuit_1](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_1.jpg?raw=true)
+![Circuit_1](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_1_.jpg?raw=true)
 
-Build each circuit in the Circuit Simulator App and test them to see if they work.  One of them does not.  Figure out which one using the app to prove it.  Save your three circuits as text files named in the following manner:
+___Circuit 2___
+
+![Circuit_2](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_2.jpg?raw=true)
+
+___Circuit 3___
+
+![Circuit 3a](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_3a.jpg?raw=true)
+
+![Circuit 3b](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_3b.jpg?raw=true)
+
+![Circuit 3c](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_3c.jpg?raw=true)
+
+Build each circuit in the Circuit Simulator App and test them to see if they work.  Save your three circuits as text files named in the following manner:
 
 - circuit_1[last_name].txt
 - circuit_2[last_name].txt
@@ -36,3 +56,7 @@ Print each of the three circuits to pdf and name them in the same fashion as abo
 Create a new directory in this repository called "circuit_files" and upload those six files to it.
 
 ## 📚  Resources 
+
+___Video explaining MOSFET Transistors___
+
+[![Transistor / MOSFET tutorial](http://img.youtube.com/vi/Te5YYVZiOKs/0.jpg)](https://www.youtube.com/watch?v=Te5YYVZiOKs "Transistor / MOSFET tutorial")
