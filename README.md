@@ -21,6 +21,9 @@ In order to draw your own schematics online, we will employ the [Circuit Simulat
 ## 📝 Next steps
 In the lab are three circuits that have been built on three demo breadboards.  Photos are found below.
 
+___Circuit 1___
+
+![Circuit_1](https://github.com/stcline/RE-3.1.0-Schematic_Design/blob/main/Circuit_1.jpg?raw=true)
 
 Build each circuit in the Circuit Simulator App and test them to see if they work.  One of them does not.  Figure out which one using the app to prove it.  Save your three circuits as text files named in the following manner:
 
